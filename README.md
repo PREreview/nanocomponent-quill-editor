@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>nanocomponent-quill-editor</h1>
-  <h2>A native DOM component</h2>
+  <h2>A QuillJS Text Editor nanocomponent</h2>
   <p>
     <a href="https://npmjs.com/packages/nanocomponent-quill-editor" alt="npm package">
       <img src="https://img.shields.io/npm/v/nanocomponent-quill-editor.svg?style=flat-square">
@@ -24,5 +24,5 @@ npm install nanocomponent-quill-editor
 ## Usage
 
 ``` js
-var quill-editor = require('nanocomponent-quill-editor')
+var QuillEditor = require('nanocomponent-quill-editor')
 ```
